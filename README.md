@@ -6,4 +6,4 @@
  
  ### Type this command in NodeJS CMD after installing 
  
-  **npm install -g --unsafe-perm node-red **
+  **npm install -g --unsafe-perm node-red**
